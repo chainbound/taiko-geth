@@ -5,6 +5,12 @@
   "0x79fcdef22feed20eddacbb2587640e45491b757f": {
     "balance": "0x3635c9adc5dea00000"
   },
+  "0x7c67Da31203Cda5d5eb7524e691954b9Afb4Ec5c": {
+    "balance": "0x3635c9adc5dea00000"
+  },
+  "0x88f98E33ad59E61Deb864f33286ACdf6073f27D3": {
+    "balance": "0x3635c9adc5dea00000"
+  },
   "0x0167010000000000000000000000000000000006": {
     "contractName": "SharedResolverImpl",
     "storage": {
